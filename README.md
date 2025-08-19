@@ -19,3 +19,5 @@ Find the clues.
 Solve the level.
 
 Hints:
+
+1. Read the description.
