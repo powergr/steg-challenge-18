@@ -25,6 +25,7 @@ Hints:
 2. Use your brain.
 
 3. Read between the lines.
+
 4. Find the pattern.
 5. The secret is the answer.
 6. Type the secret.
