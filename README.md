@@ -7,7 +7,8 @@ What? You are looking in the correct way.
 Where? Here.
 
 Who? You.
-Why?
+
+Why? To solve the level.
 
 Important message:
 
