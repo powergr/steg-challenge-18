@@ -2,7 +2,9 @@
 
 This is the file for level 18.
 
-What? Where? Who? Why?
+What? You are looking in the correct way.
+
+Where? Who? Why?
 
 Important message:
 
