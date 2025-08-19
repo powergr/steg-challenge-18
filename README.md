@@ -22,3 +22,4 @@ Hints:
 
 1. Read the description.
 2. Use your brain.
+3. Read between the lines.
