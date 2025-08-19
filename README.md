@@ -21,6 +21,7 @@ Solve the level.
 Hints:
 
 1. Read the description.
+
 2. Use your brain.
 3. Read between the lines.
 4. Find the pattern.
