@@ -4,7 +4,9 @@ This is the file for level 18.
 
 What? You are looking in the correct way.
 
-Where? Who? Why?
+Where? Here.
+
+Who? Why?
 
 Important message:
 
